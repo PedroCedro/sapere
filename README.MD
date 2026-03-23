@@ -1,4 +1,4 @@
-# Sapere - v0.0.1
+# Sapere - v0.1.0
 
 Sapere é uma plataforma de aprendizado focada em organizar conhecimento em trilhas estruturadas.
 
@@ -42,3 +42,4 @@ Progresso
 Projeto em estágio inicial de desenvolvimento.
 
 Primeiro marco: estrutura inicial do backend e configuração do projeto.
+Ajustada a classe Course. Adicionado Controller, DTO, Repository, Service referentes a classe Course. 
